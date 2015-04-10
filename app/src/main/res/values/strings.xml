@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vokabeltrainer</string>
+    <string name="action_about">Über</string>
+    <string name="text_lernen">Lernen</string>
+    <string name="text_sammlung">Vokabeln</string>
+    <string name="text_statistik">Statistik</string>
+    <string name="title_activity_lernen">Lernmethoden</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text_karteikarten">Karteikarten</string>
+    <string name="text_sprache">Sprache</string>
+    <string name="text_schreiben">Schreiben</string>
+    <string name="text_multiple_choice">Multiple Choice</string>
+    <string name="text_paar">Paare</string>
+    <string name="subtitle_lernmethoden">Lernmethode wählen:</string>
+    <string name="title_activity_about">Über</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="title_activity_statistik">Statistik</string>
+    <string name="title_activity_word">Meine Vokabeln</string>
+    <string name="text_empty">Es befinden sich noch keine Vokabeln in der Sammlung</string>
+    <string name="title_add">Hinzufügen</string>
+    <string name="text_hits">richtig:</string>
+    <string name="text_mistakes">falsch:</string>
+    <string name="text_all">gesamt:</string>
+    <string name="empty"></string>
+    <string name="bt_continue">weiter</string>
+    <string name="control_text">Zum Kontrollieren tippen.</string>
+    <string name="text_right">richtig</string>
+    <string name="text_wrong">falsch</string>
+    <string name="title_activity_main_activity2">MainActivity2Activity</string>
+
+
+</resources>

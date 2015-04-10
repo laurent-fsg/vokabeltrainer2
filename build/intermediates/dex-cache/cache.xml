@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Laurent Rodemerk\workspace\Vokabeltrainer\app\build\intermediates\exploded-aar\com.oguzdev\CircularFloatingActionMenu\1.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="607d961caf1a59b6e782724654c1f3229e036c20">
+        <dex dex="C:\Users\Laurent Rodemerk\workspace\Vokabeltrainer\app\build\intermediates\pre-dexed\debug\classes-40781535e861086f941c3005d21b8321ff50f7f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Laurent Rodemerk\workspace\Vokabeltrainer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Laurent Rodemerk\workspace\Vokabeltrainer\app\build\intermediates\pre-dexed\debug\classes-7ea3a8714bf2aedb29ce5324d456798ebd9b651d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Laurent Rodemerk\workspace\Vokabeltrainer\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\Laurent Rodemerk\workspace\Vokabeltrainer\app\build\intermediates\pre-dexed\debug\classes-482c22c793af6dc4d5108a2a1eba89112afc16ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Laurent Rodemerk\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Laurent Rodemerk\workspace\Vokabeltrainer\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-c15d585b0159746fed7962611469753de3af3582.jar" />
+    </item>
+    <item
+        jar="C:\Users\Laurent Rodemerk\workspace\Vokabeltrainer\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Laurent Rodemerk\workspace\Vokabeltrainer\app\build\intermediates\pre-dexed\debug\classes-805894c492961a24431ed512c5f978e5159b989b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Laurent Rodemerk\workspace\Vokabeltrainer\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.9.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f2b8a750df2a5d485d0c40b379b44371c5e6d98d">
+        <dex dex="C:\Users\Laurent Rodemerk\workspace\Vokabeltrainer\app\build\intermediates\pre-dexed\debug\classes-70b5ad3cd04c1cea4df682989180bf4de3ace9b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Laurent Rodemerk\workspace\Vokabeltrainer\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Laurent Rodemerk\workspace\Vokabeltrainer\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-8f2f5612de79e905a47c72d11be16e732de4425e.jar" />
+    </item>
+
+</items>
